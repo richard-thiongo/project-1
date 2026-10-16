@@ -1,31 +1,30 @@
-*{
+* {
   margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Outfit", sans-serif;
 }
 
-.main-wrapper{
-   border: 3px solid blue;
-   
+.main-wrapper {
+  border: 3px solid blue;
 }
 
-.nav-holder{
+.nav-holder {
   border: 3px solid red;
-
 }
 
-.nav-holder nav{
+.nav-holder nav {
   display: flex;
   align-items: center;
 }
 
-.nav-holder nav a{
+.nav-holder nav a {
   text-decoration: none;
   margin: 10px;
   font-weight: 400;
 }
 
-.nav-holder h1{
-  font-size:25px;
+.nav-holder h1 {
+  font-size: 25px;
   font-weight: 400;
 }
