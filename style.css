@@ -8,3 +8,24 @@
    border: 3px solid blue;
    
 }
+
+.nav-holder{
+  border: 3px solid red;
+
+}
+
+.nav-holder nav{
+  display: flex;
+  align-items: center;
+}
+
+.nav-holder nav a{
+  text-decoration: none;
+  margin: 10px;
+  font-weight: 400;
+}
+
+.nav-holder h1{
+  font-size:25px;
+  font-weight: 400;
+}
